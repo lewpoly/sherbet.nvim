@@ -1,7 +1,7 @@
 local colors = {
 	fg = "#D4D4D4",
 	bg = "#232731",
-	alt_bg = "#252525",
+	alt_bg = "#282c34",
 	dark = "#222222",
 	accent = "#BBBBBB",
 	popup_back = "#2D2D30",
