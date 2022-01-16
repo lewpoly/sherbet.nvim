@@ -10,7 +10,7 @@ local NvimTree = {
 		NvimTreeImageFile = {fg = C.light_gray, },
 		NvimTreeSpecialFile = {fg = C.orange, },
 		NvimTreeEndOfBuffer = {fg = C.tree_gray, },
-		NvimTreeCursorLine = {bg = "#2A2D2E", },
+		NvimTreeCursorLine = {bg = "#0d1117", },
 		NvimTreeGitignoreIcon = {fg = "#E64A19", },
 		NvimTreeGitStaged = {fg = C.tree_sign_add, },
 		NvimTreeGitNew = {fg = C.tree_sign_add, },
