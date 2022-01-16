@@ -9,7 +9,7 @@ local NvimTree = {
 		NvimTreeGitIgnored = {fg = C.gray, style = "italic", },
 		NvimTreeImageFile = {fg = C.light_gray, },
 		NvimTreeSpecialFile = {fg = C.orange, },
-		NvimTreeEndOfBuffer = {fg = C.tree_gray, },
+		NvimTreeEndOfBuffer = {fg = C.alt_bg, },
 		NvimTreeCursorLine = {bg = "#0d1117", },
 		NvimTreeGitignoreIcon = {fg = "#E64A19", },
 		NvimTreeGitStaged = {fg = C.tree_sign_add, },
@@ -19,7 +19,7 @@ local NvimTree = {
 		NvimTreeGitMerge = {fg = C.tree_sign_change, },
 		NvimTreeGitDirty = {fg = C.tree_sign_change, },
 		NvimTreeSymlink = {fg = C.cyan, },
-		NvimTreeRootFolder = {fg = C.fg, style = "bold", },
+		NvimTreeRootFolder = {fg = C.yellow, style = "bold", },
 		NvimTreeExecFile = {fg = "#9FBA89", },
 }
 
