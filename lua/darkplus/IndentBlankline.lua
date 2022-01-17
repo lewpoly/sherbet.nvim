@@ -1,5 +1,5 @@
 local IndentBlankline = {
-		IndentBlanklineContextChar = {fg = C.context, },
+		IndentBlanklineContextChar = {fg = C.yellow_orange, },
 		IndentBlanklineContextStart = {style = "underline", },
 		IndentBlanklineChar = {fg = C.dark_gray, },
 		IndentBlanklineSpaceChar = {fg = C.cyan_test, },
