@@ -1,7 +1,7 @@
 local Dashboard = {
-		DashboardHeader = {fg = C.orange, },
-		DashboardCenter = {fg = C.yellow_orange, },
-		DashboardFooter = {fg = C.orange, },
+		DashboardHeader = {fg = C.light_green, },
+		DashboardCenter = {fg = C.orange, },
+		DashboardFooter = {fg = C.yellow_orange, },
 }
 
 return Dashboard
