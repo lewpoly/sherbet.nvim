@@ -9,11 +9,11 @@ local Buffer = {
 		BufferVisibleMod = {fg = C.info_yellow, bg = C.bg, },
 		BufferVisibleSign = {fg = C.gray, bg = C.bg, },
 		BufferVisibleTarget = {fg = C.red, bg = C.bg, style = "bold", },
-		BufferInactive = {fg = C.gray, bg = "#272731", },
-		BufferInactiveIndex = {fg = C.gray, bg = "#272731", },
-		BufferInactiveMod = {fg = C.info_yellow, bg = "#272731", },
-		BufferInactiveSign = {fg = C.gray, bg = "#272731", },
-		BufferInactiveTarget = {fg = C.red, bg = "#272731", style = "bold", },
+		BufferInactive = {fg = C.gray, bg = C.alt_bg, },
+		BufferInactiveIndex = {fg = C.gray, bg = C.alt_bg, },
+		BufferInactiveMod = {fg = C.info_yellow, bg = C.alt_bg, },
+		BufferInactiveSign = {fg = C.gray, bg = C.alt_bg, },
+		BufferInactiveTarget = {fg = C.red, bg = C.alt_bg, style = "bold", },
 }
 
 return Buffer
