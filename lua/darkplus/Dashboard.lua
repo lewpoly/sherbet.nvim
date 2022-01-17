@@ -1,6 +1,6 @@
 local Dashboard = {
-		DashboardHeader = {fg = C.blue, },
-		DashboardCenter = {fg = C.purple, },
+		DashboardHeader = {fg = C.yellow, },
+		DashboardCenter = {fg = C.light_blue, },
 		DashboardFooter = {fg = C.cyan, },
 }
 
