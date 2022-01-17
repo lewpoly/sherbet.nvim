@@ -3,6 +3,7 @@ local colors = {
 	bg = "#0d1117",
   line_bg = "#282c34",
 	alt_bg = "#232731",
+  term_bg = "#090c10",
 	dark = "#222222",
 	accent = "#BBBBBB",
 	popup_back = "#244032",
