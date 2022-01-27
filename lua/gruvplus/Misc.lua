@@ -10,7 +10,7 @@ local Misc = {
 		CodiVirtualText = {fg = C.hint_blue, },
 		CompeDocumentation = {bg = C.alt_bg, },
 		xmlTag = {fg = C.cyan, },
-		xmlTagName = {fg = C.yellow, },
+		xmlTagName = {fg = C.cyan, },
 		xmlEndTag = {fg = C.cyan, },
 		yamlPlainScalar = {fg = C.orange, },
 		yamlTSField = {fg = C.blue, },
