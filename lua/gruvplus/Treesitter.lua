@@ -43,7 +43,7 @@ local Treesitter = {
 		TSString = {fg = C.orange, },
 		TSStringRegex = {fg = C.orange, },
 		TSStringEscape = {fg = C.yellow_orange, },
-		TSTag = {fg = C.yellow, },
+		TSTag = {fg = C.light_green, },
 		TSEmphasis = {style = "italic", },
 		TSUnderline = {style = "underline", },
 		TSTitle = {fg = C.fg, },
