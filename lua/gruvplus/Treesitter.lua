@@ -12,7 +12,7 @@ local Treesitter = {
 		TSKeyword = {fg = C.sign_change, },
 		TSKeywordFunction = {fg = C.orange, },
 		TSLabel = {fg = C.vivid_blue, },
-		TSNamespace = {fg = C.cyan, },
+		TSNamespace = {fg = C.yellow, },
 		TSRepeat = {fg = C.purple, },
 		TSConstant = {fg = C.yellow, },
 		TSConstBuiltin = {fg = C.sign_change, },
