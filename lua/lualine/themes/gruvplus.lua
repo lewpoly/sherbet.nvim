@@ -10,12 +10,12 @@ local colors = {
   yellow = '#ebcb8b',
   orange = '#ce9178',
   fg     = '#d4d4d4',
-  bg     = '#111317',
+  bg     = '#1b1f24',
   -- bg     = '#68217a',
   -- bg     = '#252525',
   gray1  = '#282c34',
   gray2  = '#2c323d',
-  gray3  = '#3e3e3e',
+  gray3  = '#555658',
 }
 -- LuaFormatter on
 return {
