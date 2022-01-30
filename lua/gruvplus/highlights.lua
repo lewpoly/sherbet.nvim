@@ -91,9 +91,9 @@ local highlights = {
 		Ignore = {fg = C.cyan, bg = C.bg, style = "bold", },
 		Todo = {fg = C.light_red, bg = C.bg, },
 		Error = {fg = C.error_red, bg = C.bg, style = "bold", },
-		TabLine = {fg = C.light_gray, bg = "#16181f", },
-		TabLineSel = {fg = C.white, bg = "#16181f", },
-		TabLineFill = {fg = "#16181f", bg = "#16181f", },
+		TabLine = {fg = C.light_gray, bg = C.alt_bg, },
+		TabLineSel = {fg = C.white, bg = C.alt_bg, },
+		TabLineFill = {fg = C.alt_bg, bg = C.alt_bg, },
 }
 
 return highlights
