@@ -1,6 +1,6 @@
 local SymbolOutline = {
 		SymbolsOutlineConnector = {fg = C.gray, },
-		FocusedSymbol = {bg = C.term_bg, },
+		FocusedSymbol = {bg = "#36383F", },
 }
 
 return SymbolOutline
