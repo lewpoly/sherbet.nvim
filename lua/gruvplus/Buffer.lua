@@ -13,7 +13,7 @@ local Buffer = {
 		BufferInactiveIndex = {fg = C.gray, bg = "#16181f", },
 		BufferInactiveMod = {fg = C.info_yellow, bg = "#16181f", },
 		BufferInactiveSign = {fg = C.gray, bg = "#16181f", },
-		BufferInactiveTarget = {fg = C.red, bg = C.alt_bg, style = "bold", },
+		BufferInactiveTarget = {fg = C.red, bg = "#16181f", style = "bold", },
 }
 
 return Buffer
