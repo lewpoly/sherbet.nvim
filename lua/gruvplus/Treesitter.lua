@@ -3,7 +3,7 @@ local Treesitter = {
 		TSAnnotation = {fg = C.yellow, },
 		TSAttribute = {fg = C.cyan, },
 		TSConstructor = {fg = C.cyan, },
-		TSType = {fg = C.cyan, },
+		TSType = {fg = C.yellow, },
 		TSTypeBuiltin = {fg = C.sign_change, },
 		TSConditional = {fg = C.purple, },
 		TSException = {fg = C.purple, },
