@@ -11,7 +11,7 @@ local Buffer = {
 		BufferVisibleTarget = {fg = C.red, bg = C.bg, style = "bold", },
 		BufferInactive = {fg = C.gray, bg = C.alt_bg, },
 		BufferInactiveIndex = {fg = C.gray, bg = "#16181f", },
-		BufferInactiveMod = {fg = C.info_yellow, bg = C.alt_bg, },
+		BufferInactiveMod = {fg = C.info_yellow, bg = "#16181f", },
 		BufferInactiveSign = {fg = C.gray, bg = C.alt_bg, },
 		BufferInactiveTarget = {fg = C.red, bg = C.alt_bg, style = "bold", },
 }
