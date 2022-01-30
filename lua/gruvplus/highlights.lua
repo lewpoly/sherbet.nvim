@@ -93,7 +93,7 @@ local highlights = {
 		Error = {fg = C.error_red, bg = C.bg, style = "bold", },
 		TabLine = {fg = C.light_gray, bg = C.alt_bg, },
 		TabLineSel = {fg = C.white, bg = C.alt_bg, },
-		TabLineFill = {fg = C.alt_bg, bg = "#16181f", },
+		TabLineFill = {fg = "#16181f", bg = "#16181f", },
 }
 
 return highlights
