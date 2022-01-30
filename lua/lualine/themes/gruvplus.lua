@@ -15,7 +15,7 @@ local colors = {
   -- bg     = '#252525',
   gray1  = '#5c6370',
   gray2  = '#2c323d',
-  gray3  = '#3e4452',
+  gray3  = '#232731',
 }
 -- LuaFormatter on
 return {
