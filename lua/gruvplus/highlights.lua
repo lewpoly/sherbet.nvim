@@ -84,7 +84,7 @@ local highlights = {
 		Tag = {fg = C.vivid_blue, },
 		Debug = {fg = C.red, },
 		Delimiter = {fg = C.gray, },
-		SpecialComment = {fg = C.gray, },
+		SpecialComment = {fg = C.gray, style = "italic", },
 		Underlined = {style = "underline", },
 		Bold = {style = "bold", },
 		Italic = {style = "italic", },
