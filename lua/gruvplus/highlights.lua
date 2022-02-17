@@ -22,7 +22,7 @@ local highlights = {
 		VertSplit = {fg = C.bg, bg = C.gray, },
 		CursorLine = {bg = C.line_bg, },
 		CursorColumn = {bg = C.line_bg, },
-		ColorColumn = {bg = C.dark, },
+		ColorColumn = {bg = C.gray, },
 		NormalFloat = {bg = C.term_bg, },
 		Visual = {bg = C.ui_blue, },
 		VisualNOS = {bg = C.alt_bg, },
