@@ -34,9 +34,9 @@ local LSP = {
 		LspDiagnosticsUnderlineInformation = {style = "underline", },
 		LspDiagnosticsUnderlineInfo = {style = "underline", },
 		LspDiagnosticsUnderlineHint = {style = "underline", },
-		LspReferenceRead = {bg = "#36383F", },
-		LspReferenceText = {bg = "#36383F", },
-		LspReferenceWrite = {bg = "#36383f", },
+		LspReferenceRead = {bg = "#5a5d65", },
+		LspReferenceText = {bg = "#5a5d65", },
+		LspReferenceWrite = {bg = "#5a5d65", },
 }
 
 return LSP
