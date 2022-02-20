@@ -10,7 +10,7 @@ local Treesitter = {
 		TSInclude = {fg = C.purple, },
 		TSKeywordReturn = {fg = C.purple, },
 		TSKeyword = {fg = C.blue, },
-		TSKeywordFunction = {fg = C.blue, },
+		TSKeywordFunction = {fg = C.accent, },
 		TSLabel = {fg = C.vivid_blue, },
 		TSNamespace = {fg = C.sign_change, },
 		TSRepeat = {fg = C.purple, },
