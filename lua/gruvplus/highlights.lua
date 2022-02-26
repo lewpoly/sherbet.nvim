@@ -68,7 +68,7 @@ local highlights = {
 		StorageClass = {fg = C.vivid_blue, },
 		Structure = {fg = C.yellow, },
 		Typedef = {fg = C.yellow, },
-		Keyword = {fg = C.search_blue, },
+		Keyword = {fg = C.popup_back, },
 		Statement = {fg = C.purple, },
 		Conditional = {fg = C.purple, },
 		Repeat = {fg = C.purple, },
