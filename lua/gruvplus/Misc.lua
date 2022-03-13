@@ -28,7 +28,7 @@ local Misc = {
 		htmlTag = {fg = C.yellow, },
 		htmlTagN = {fg = C.light_blue, },
 		htmlTagName = {fg = C.yellow, },
-		htmlComment = {fg = C.green, },
+		htmlComment = {fg = C.context, },
 		htmlLink = {fg = C.light_green, style = "underline", },
 		cssBraces = {fg = C.fg, },
 		cssInclude = {fg = C.purple, },
