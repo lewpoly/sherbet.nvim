@@ -1,5 +1,5 @@
 local Treesitter = {
-		TSComment = {fg = C.accent, style = "italic", },
+		TSComment = {fg = C.green, style = "italic", },
 		TSAnnotation = {fg = C.yellow, },
 		TSAttribute = {fg = C.cyan, },
 		TSConstructor = {fg = C.cyan, },
@@ -27,7 +27,7 @@ local Treesitter = {
 		TSConstMacro = {fg = C.cyan, },
 		TSFuncMacro = {fg = C.yellow, },
 		TSVariable = {fg = C.light_blue, },
-		TSVariableBuiltin = {fg = C.context, },
+		TSVariableBuiltin = {fg = C.cyan, },
 		TSProperty = {fg = C.light_blue, },
 		TSOperator = {fg = C.fg, },
 		TSField = {fg = C.vivid_blue, },
