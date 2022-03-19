@@ -29,7 +29,8 @@ local Misc = {
 		htmlTagN = {fg = C.blue, },
 		htmlTagName = {fg = C.blue, },
 		htmlComment = {fg = C.green, },
-		htmlLink = {fg = C.orange, style = "underline", },		cssBraces = {fg = C.fg, },
+		htmlLink = {fg = C.orange, style = "underline", },
+		cssBraces = {fg = C.fg, },
 		cssInclude = {fg = C.purple, },
 		cssTagName = {fg = C.yellow_orange, },
 		cssClassName = {fg = C.yellow_orange, },
@@ -49,7 +50,6 @@ local Misc = {
 		cssValueLength = {fg = C.light_green, },
 		cssUnitDecorators = {fg = C.light_green, },
 		cssStyle = {fg = C.light_blue, },
-		cssImportant = {fg = C.blue, },
-}
+		cssImportant = {fg = C.blue, },}
 
 return Misc
