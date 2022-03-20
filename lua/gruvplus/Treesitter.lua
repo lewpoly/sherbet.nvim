@@ -1,5 +1,5 @@
 local Treesitter = {
-	TSComment = { fg = C.light_green },
+	TSComment = { fg = C.green },
 	TSAnnotation = { fg = C.yellow },
 	TSAttribute = { fg = C.cyan },
 	TSConstructor = { fg = C.cyan },
@@ -17,7 +17,7 @@ local Treesitter = {
 	TSConstant = { fg = C.vivid_blue },
 	TSConstBuiltin = { fg = C.vivid_blue },
 	TSFloat = { fg = C.light_green },
-	TSNumber = { fg = C.green },
+	TSNumber = { fg = C.light_green },
 	TSBoolean = { fg = C.blue },
 	TSCharacter = { fg = C.orange },
 	TSError = { fg = C.error_red },
