@@ -24,10 +24,10 @@ return {
     b = {fg = colors.fg, bg = colors.bg},
     c = {fg = colors.fg, bg = colors.bg}
   },
-  insert = {a = {fg = colors.orange, bg = colors.orange, gui = 'bold'}},
-  visual = {a = {fg = colors.blue, bg = colors.blue, gui = 'bold'}},
-  command = {a = {fg = colors.yellow, bg = colors.yellow, gui = 'bold'}},
-  replace = {a = {fg = colors.red1, bg = colors.red1, gui = 'bold'}},
+  insert = {a = {fg = colors.orange, bg = colors.bg, gui = 'bold'}},
+  visual = {a = {fg = colors.blue, bg = colors.bg, gui = 'bold'}},
+  command = {a = {fg = colors.yellow, bg = colors.bg, gui = 'bold'}},
+  replace = {a = {fg = colors.red1, bg = colors.bg, gui = 'bold'}},
   inactive = {
     a = {fg = colors.gray3, bg = colors.bg},
     b = {fg = colors.gray3, bg = colors.bg},
