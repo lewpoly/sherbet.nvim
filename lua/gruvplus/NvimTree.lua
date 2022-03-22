@@ -19,7 +19,7 @@ local NvimTree = {
 		NvimTreeGitMerge = {fg = C.tree_sign_change, },
 		NvimTreeGitDirty = {fg = C.tree_sign_change, },
 		NvimTreeSymlink = {fg = C.cyan, },
-		NvimTreeRootFolder = {fg = C.yellow, style = "bold", },
+		NvimTreeRootFolder = {fg = C.accent, style = "bold", },
 		NvimTreeExecFile = {fg = "#9FBA89", },
 }
 
