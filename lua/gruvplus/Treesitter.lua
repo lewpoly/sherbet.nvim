@@ -1,5 +1,5 @@
 local Treesitter = {
-	TSComment = { fg = C.accent },
+	TSComment = { fg = C.green },
 	TSAnnotation = { fg = C.yellow },
 	TSAttribute = { fg = C.cyan },
 	TSConstructor = { fg = C.cyan },
