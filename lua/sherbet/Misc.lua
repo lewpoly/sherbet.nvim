@@ -17,7 +17,7 @@ local Misc = {
 	xmlTagName = { fg = C.cyan },
 	xmlEndTag = { fg = C.cyan },
 	yamlPlainScalar = { fg = C.orange },
-	yamlTSField = { fg = C.blue },
+	yamlTSField = { fg = C.light_gray },
 	luaFunc = { fg = C.yellow },
 	luaFunction = { fg = C.blue },
 	htmlH1 = { fg = C.fg },
