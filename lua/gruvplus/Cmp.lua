@@ -20,7 +20,7 @@ local Cmp = {
 		CmpItemKindValue = {fg = C.fg, },
 		CmpItemKindUnit = {fg = C.fg, },
 		CmpItemKindText = {fg = C.light_green, },
-		CmpItemKindSnippet = {fg = C.yellow_orange, },
+		CmpItemKindSnippet = {fg = C.light_gray, },
 		CmpItemKindFile = {fg = C.fg, },
 		CmpItemKindFolder = {fg = C.folder_blue, },
 		CmpItemKindColor = {fg = C.fg, },
