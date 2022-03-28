@@ -1,6 +1,6 @@
 local Quickscope = {
-		QuickScopePrimary = {fg = C.tree_sign_change, style = "underline", },
-		QuickScopeSecondary = {fg = C.tree_sign_add, style = "underline", },
+		QuickScopePrimary = {fg = C.ui_purple, style = "underline", },
+		QuickScopeSecondary = {fg = C.ui_orange, style = "underline", },
 }
 
 return Quickscope
