@@ -5,7 +5,7 @@ local Telescope = {
 	TelescopeMatching = { fg = C.info_yellow, style = "bold" },
 	TelescopeBorder = { fg = C.fg, bg = Config.transparent_background and "NONE" or C.bg },
 	TelescopePromptPrefix = { fg = C.fg },
-	TelescopeSelectionCaret = { fg = C.fg },
+	TelescopeSelectionCaret = { fg = C.gray },
 	TelescopeTitle = { fg = C.light_blue },
 }
 
