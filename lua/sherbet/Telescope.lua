@@ -1,6 +1,6 @@
 local Telescope = {
 	TelescopeNormal = { fg = C.gray },
-	TelescopePromptNormal = { fg = C.accent },
+	TelescopePromptNormal = { fg = C.fg },
 	TelescopePromptCounter = { fg = C.accent },
 	TelescopeSelection = { fg = C.fg, bg = C.line_bg },
 	TelescopeMatching = { fg = C.info_yellow },
