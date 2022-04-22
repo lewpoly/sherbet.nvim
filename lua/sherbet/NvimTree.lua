@@ -1,10 +1,10 @@
 local NvimTree = {
-	NvimTreeFolderIcon = { fg = C.light_blue },
+	NvimTreeFolderIcon = { fg = C.vivid_blue },
 	NvimTreeIndentMarker = { fg = "#c5c5c5" },
 	NvimTreeNormal = { fg = C.light_gray, bg = C.menu_gray },
 	NvimTreeVertSplit = { fg = C.gray, bg = C.alt_bg },
 	NvimTreeFolderName = { fg = C.yellow_orange },
-	NvimTreeOpenedFolderName = { fg = C.purple, style = "italic" },
+	NvimTreeOpenedFolderName = { fg = C.yellow_orange, style = "italic" },
 	NvimTreeEmptyFolderName = { fg = C.gray, style = "italic" },
 	NvimTreeGitIgnored = { fg = C.gray, style = "italic" },
 	NvimTreeImageFile = { fg = C.light_gray },
