@@ -32,7 +32,7 @@ local highlights = {
 	DiffDelete = { fg = C.alt_bg, bg = C.sign_delete },
 	QuickFixLine = { bg = C.ui2_blue },
 	PmenuSbar = { bg = C.alt_bg },
-	PmenuThumb = { bg = C.gray },
+	PmenuThumb = { bg = C.blue },
 	MatchWord = { style = "underline" },
 	MatchParen = { fg = C.hint_blue, bg = C.bg, style = "underline" },
 	MatchWordCur = { style = "underline" },
