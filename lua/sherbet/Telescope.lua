@@ -4,10 +4,10 @@ local Telescope = {
 	TelescopePromptCounter = { fg = C.accent },
 	TelescopeSelection = { fg = C.fg, bg = C.line_bg },
 	TelescopeMatching = { fg = C.yellow_orange },
-	TelescopeBorder = { fg = C.light_blue, bg = Config.transparent_background and "NONE" or C.bg },
+	TelescopeBorder = { fg = C.fg, bg = Config.transparent_background and "NONE" or C.bg },
 	TelescopePromptPrefix = { fg = C.accent },
 	TelescopeSelectionCaret = { fg = C.accent, bg = C.line_bg },
-	TelescopeTitle = { fg = C.fg },
+	TelescopeTitle = { fg = C.blue },
 }
 
 return Telescope
