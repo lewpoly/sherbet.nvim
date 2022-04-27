@@ -4,6 +4,7 @@ local colors = {
 	-- bg = "#232731",
 	aurora_blue = "#232731",
   aurora_cyan = "#8fbcbb",
+  gruv_blue = "#458588",
 	menu_gray = "#202329",
 	line_bg = "#2c323d",
 	alt_bg = "#0d1117",
