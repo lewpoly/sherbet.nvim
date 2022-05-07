@@ -4,7 +4,7 @@ local NvimTree = {
 	NvimTreeNormal = { fg = C.light_gray, bg = C.menu_gray },
 	NvimTreeVertSplit = { fg = C.menu_gray, bg = C.menu_gray },
 	NvimTreeFolderName = { fg = C.light_blue },
-	NvimTreeOpenedFolderName = { fg = C.light_blue, style = "italic" },
+	NvimTreeOpenedFolderName = { fg = C.yellow_orange, style = "italic" },
 	NvimTreeEmptyFolderName = { fg = C.gray, style = "italic" },
 	NvimTreeGitIgnored = { fg = C.gray, style = "italic" },
 	NvimTreeImageFile = { fg = C.light_gray },
