@@ -17,7 +17,7 @@ local highlights = {
 	Folded = { fg = C.folder_blue, bg = C.bg },
 	FoldColumn = { fg = C.folder_blue, bg = C.bg },
 	LineNr = { fg = C.gray },
-	FloatBorder = { fg = C.gray, bg = C.bg },
+	FloatBorder = { fg = C.gray, bg = C.menu_gray },
 	Whitespace = { fg = C.bg },
 	VertSplit = { fg = C.bg, bg = C.gray },
 	CursorLine = { bg = C.line_bg },
