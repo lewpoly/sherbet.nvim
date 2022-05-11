@@ -1,11 +1,11 @@
 local Treesitter = {
-	TSComment = { fg = C.gray },
+	TSComment = { fg = C.gruv_blue },
 	TSAnnotation = { fg = C.yellow },
 	TSAttribute = { fg = C.light_green },
 	TSConstructor = { fg = C.aurora_cyan },
 	TSType = { fg = C.light_green },
 	TSTypeBuiltin = { fg = C.light_blue },
-	TSConditional = { fg = C.gruv_blue },
+	TSConditional = { fg = C.blue },
 	TSException = { fg = C.purple },
 	TSInclude = { fg = C.purple },
 	TSKeywordReturn = { fg = C.purple },
