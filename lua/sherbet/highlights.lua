@@ -19,7 +19,7 @@ local highlights = {
 	LineNr = { fg = C.gray },
 	FloatBorder = { fg = C.gray, bg = C.menu_gray },
 	Whitespace = { fg = C.bg },
-	VertSplit = { fg = C.bg, bg = C.gray },
+	VertSplit = { fg = C.gray, bg = C.bg },
 	CursorLine = { bg = C.line_bg },
 	CursorColumn = { bg = C.line_bg },
 	ColorColumn = { bg = C.gray },
