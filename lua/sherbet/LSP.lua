@@ -14,7 +14,7 @@ local LSP = {
 		LspDiagnosticsFloatingInformation = {fg = C.info_yellow, },
 		LspDiagnosticsFloatingInfo = {fg = C.info_yellow, },
 		LspDiagnosticsFloatingHint = {fg = C.hint_blue, },
-		DiagnosticSignError = {fg = C.error_red, },
+		DiagnosticSignError = {fg = C.light_red, },
 		DiagnosticSignWarning = {fg = C.warning_orange, },
 		DiagnosticSignInformation = {fg = C.info_yellow, },
 		DiagnosticSignInfo = {fg = C.info_yellow, },
