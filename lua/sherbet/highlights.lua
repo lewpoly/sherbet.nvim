@@ -8,7 +8,7 @@ local highlights = {
 	SpellCap = { fg = C.yellow, style = "underline" },
 	SpellLocal = { fg = C.green, style = "underline" },
 	SpellRare = { fg = C.purple, style = "underline" },
-	WinBar = { fg = C.fg, bg = C.bg },
+	WinBar = { fg = C.fg },
 	NormalNC = { fg = C.fg, bg = Config.transparent_background and "NONE" or C.bg },
 	Pmenu = { fg = C.light_gray, bg = C.menu_gray },
 	PmenuSel = { bg = C.ui2_blue },
