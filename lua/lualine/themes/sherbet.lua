@@ -20,14 +20,14 @@ local colors = {
 -- LuaFormatter on
 return {
 	normal = {
-		a = { fg = colors.fg, bg = colors.bg, gui = "bold" },
+		a = { fg = colors.fg, bg = colors.bg },
 		b = { fg = colors.fg, bg = colors.bg },
 		c = { fg = colors.fg, bg = colors.bg },
 	},
-	insert = { a = { fg = colors.orange, bg = colors.bg, gui = "bold" } },
-	visual = { a = { fg = colors.green, bg = colors.bg, gui = "bold" } },
-	command = { a = { fg = colors.blue, bg = colors.bg, gui = "bold" } },
-	replace = { a = { fg = colors.red1, bg = colors.bg, gui = "bold" } },
+	insert = { a = { fg = colors.orange, bg = colors.bg } },
+	visual = { a = { fg = colors.green, bg = colors.bg } },
+	command = { a = { fg = colors.blue, bg = colors.bg } },
+	replace = { a = { fg = colors.red1, bg = colors.bg } },
 	inactive = {
 		a = { fg = colors.gray3, bg = colors.bg },
 		b = { fg = colors.gray3, bg = colors.bg },
