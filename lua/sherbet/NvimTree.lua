@@ -21,7 +21,10 @@ local NvimTree = {
 	NvimTreeSymlink = { fg = C.cyan },
 	NvimTreeRootFolder = { fg = C.accent },
 	NvimTreeExecFile = { fg = "#9FBA89" },
-	NvimTreeLspDiagnosticsError = { fg = C.red },
+	NvimTreeLspDiagnosticsError = { fg = C.fg },
+	NvimTreeLspDiagnosticsWarning = { fg = C.fg },
+	NvimTreeLspDiagnosticsInformation = { fg = C.fg },
+	NvimTreeLspDiagnosticsHint = { fg = C.fg },
 }
 
 return NvimTree
