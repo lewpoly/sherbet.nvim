@@ -3,8 +3,8 @@
 -- Credit: Zoltan Dalmadi(lightline)
 -- LuaFormatter off
 local colors = {
-	blue = "#569cd6",
-	green = "#6a9955",
+	blue = "#458588",
+	green = "#a3be8c",
 	purple = "#c586c0",
 	red1 = "#d16969",
 	yellow = "#ebcb8b",
@@ -25,8 +25,8 @@ return {
 		c = { fg = colors.fg, bg = colors.bg },
 	},
 	insert = { a = { fg = colors.orange, bg = colors.bg, gui = "bold" } },
-	visual = { a = { fg = colors.blue, bg = colors.bg, gui = "bold" } },
-	command = { a = { fg = colors.yellow, bg = colors.bg, gui = "bold" } },
+	visual = { a = { fg = colors.green, bg = colors.bg, gui = "bold" } },
+	command = { a = { fg = colors.blue, bg = colors.bg, gui = "bold" } },
 	replace = { a = { fg = colors.red1, bg = colors.bg, gui = "bold" } },
 	inactive = {
 		a = { fg = colors.gray3, bg = colors.bg },
