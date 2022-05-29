@@ -3,7 +3,7 @@
 -- Credit: Zoltan Dalmadi(lightline)
 -- LuaFormatter off
 local colors = {
-	blue = "#458588",
+	blue = "#8fbcbb",
 	green = "#a3be8c",
 	purple = "#c586c0",
 	red1 = "#d16969",
