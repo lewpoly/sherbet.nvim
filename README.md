@@ -26,5 +26,5 @@ colorscheme sherbet
 vim.cmd("colorscheme sherbet")
 ```
 
-## Forked from [LunarVim/darkplus](https://github.com/LunarVim/darkplus.nvim) as a template.
+## Used [LunarVim/darkplus](https://github.com/LunarVim/darkplus.nvim) as a template.
 Please let me know if you come across any issues.
