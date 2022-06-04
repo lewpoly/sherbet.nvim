@@ -29,7 +29,7 @@ local Treesitter = {
 	TSVariable = { fg = C.light_gray },
 	TSVariableBuiltin = { fg = C.aurora_cyan },
 	TSProperty = { fg = C.yellow_orange },
-	TSOperator = { fg = C.light_red },
+	TSOperator = { fg = C.light_blue },
 	TSField = { fg = C.light_gray },
 	TSParameter = { fg = C.light_gray },
 	TSParameterReference = { fg = C.light_gray },
