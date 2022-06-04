@@ -24,7 +24,7 @@ local NvimTree = {
 	NvimTreeLspDiagnosticsError = { fg = C.error_red },
 	NvimTreeLspDiagnosticsWarning = { fg = C.warning_orange },
 	NvimTreeLspDiagnosticsInformation = { fg = C.info_yellow },
-	NvimTreeLspDiagnosticsHint = { fg = C.hint_blue },
+	NvimTreeLspDiagnosticsHint = { fg = C.fg },
 }
 
 return NvimTree
