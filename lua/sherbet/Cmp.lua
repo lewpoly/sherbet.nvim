@@ -1,7 +1,7 @@
 local Cmp = {
 		CmpItemAbbrDeprecated = {fg = C.gray, style = "strikethrough", },
-		CmpItemAbbrMatch = {fg = C.ui3_blue, },
-		CmpItemAbbrMatchFuzzy = {fg = C.ui3_blue, },
+		CmpItemAbbrMatch = {fg = C.blue, },
+		CmpItemAbbrMatchFuzzy = {fg = C.blue, },
 		CmpItemKindFunction = {fg = C.ui_purple, },
 		CmpItemKindMethod = {fg = C.ui_purple, },
 		CmpItemKindConstructor = {fg = C.ui_orange, },
