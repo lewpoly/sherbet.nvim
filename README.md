@@ -3,8 +3,9 @@
 
 ## Installation
 
-Download with your favorite package manager.
+Download with your favorite package manager.  
 
+With Packer:
 ```lua
 use "lewpoly/sherbet.nvim"
 ```
