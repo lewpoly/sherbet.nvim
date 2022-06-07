@@ -12,7 +12,7 @@ local highlights = {
 	Pmenu = { fg = C.light_gray, bg = C.menu_gray },
 	PmenuSel = { bg = C.ui2_blue },
 	WildMenu = { fg = C.fg, bg = C.ui2_blue },
-	LineNr = { fg = C.accent },
+	LineNr = { fg = C.fg },
 	CursorLineNr = { fg = C.light_gray, style = "bold" },
 	Comment = { fg = C.gray, style = "italic" },
 	Folded = { fg = C.folder_blue, bg = C.bg },
