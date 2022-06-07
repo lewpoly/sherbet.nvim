@@ -95,6 +95,8 @@ local highlights = {
 	TabLine = { fg = C.light_gray, bg = C.alt_bg },
 	TabLineSel = { fg = C.white, bg = C.alt_bg },
 	TabLineFill = { fg = C.alt_bg, bg = C.alt_bg },
+  WinBar = {fg = C.fg},
+  WinBarNC = {fg = C.fg},
 }
 
 return highlights
