@@ -42,7 +42,7 @@ local highlights = {
 	CursorIM = { fg = C.cursor_fg, bg = C.cursor_bg },
 	TermCursor = { fg = C.cursor_fg, bg = C.cursor_bg },
 	TermCursorNC = { fg = C.cursor_fg, bg = C.cursor_bg },
-	Conceal = { fg = C.winbar_gray },
+	Conceal = { fg = C.accent },
 	Directory = { fg = C.vivid_blue },
 	SpecialKey = { fg = C.vivid_blue },
 	Title = { fg = C.cyan },
@@ -95,7 +95,7 @@ local highlights = {
 	TabLine = { fg = C.light_gray, bg = C.alt_bg },
 	TabLineSel = { fg = C.white, bg = C.alt_bg },
 	TabLineFill = { fg = C.alt_bg, bg = C.alt_bg },
-  WinBar = {fg = C.fg},
+  WinBar = {fg = C.winbar_gray},
   WinBarNC = {fg = C.fg},
 }
 
