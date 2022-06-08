@@ -13,7 +13,7 @@ local highlights = {
 	PmenuSel = { bg = C.ui2_blue },
 	WildMenu = { fg = C.fg, bg = C.ui2_blue },
 	LineNr = { fg = C.gray },
-	CursorLineNr = { fg = C.light_gray },
+	CursorLineNr = { fg = C.light_gray, style = "bold" },
 	Comment = { fg = C.gray, style = "italic" },
 	Folded = { fg = C.folder_blue, bg = C.bg },
 	FoldColumn = { fg = C.folder_blue, bg = C.bg },
@@ -84,7 +84,7 @@ local highlights = {
 	SpecialChar = { fg = C.white },
 	Tag = { fg = C.vivid_blue },
 	Debug = { fg = C.red },
-	Delimiter = { fg = C.comp_blue },
+	Delimiter = { fg = C.comp_gray },
 	SpecialComment = { fg = C.context, style = "italic" },
 	Underlined = { style = "underline" },
 	Bold = { style = "bold" },
@@ -95,8 +95,8 @@ local highlights = {
 	TabLine = { fg = C.light_gray, bg = C.alt_bg },
 	TabLineSel = { fg = C.white, bg = C.alt_bg },
 	TabLineFill = { fg = C.alt_bg, bg = C.alt_bg },
-  WinBar = {fg = C.winbar_gray},
-  WinBarNC = {fg = C.fg},
+	WinBar = { fg = C.winbar_gray },
+	WinBarNC = { fg = C.fg },
 }
 
 return highlights
