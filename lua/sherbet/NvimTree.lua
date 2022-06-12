@@ -3,7 +3,7 @@ local NvimTree = {
 	NvimTreeIndentMarker = { fg = "#c5c5c5" },
 	NvimTreeNormal = { fg = C.light_gray, bg = C.menu_gray },
 	NvimTreeVertSplit = { fg = C.gray, bg = C.bg },
-	NvimTreeFolderName = { fg = C.light_blue },
+	NvimTreeFolderName = { fg = C.comp_blue },
 	NvimTreeOpenedFolderName = { fg = C.light_blue, style = "italic" },
 	NvimTreeEmptyFolderName = { fg = C.gray, style = "italic" },
 	NvimTreeGitIgnored = { fg = C.gray, style = "italic" },
