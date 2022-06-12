@@ -50,7 +50,7 @@ local Misc = {
 	cssColor = { fg = C.orange },
 	cssFunction = { fg = C.purple },
 	cssFunctionName = { fg = C.yellow },
-	cssVendor = { fg = C.orange },
+	cssVendor = { fg = C.yellow_orange },
 	cssValueNumber = { fg = C.light_green },
 	cssValueLength = { fg = C.light_green },
 	cssUnitDecorators = { fg = C.light_green },
