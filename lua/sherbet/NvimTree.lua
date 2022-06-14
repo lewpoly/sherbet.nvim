@@ -23,8 +23,8 @@ local NvimTree = {
 	NvimTreeExecFile = { fg = "#9FBA89" },
 	NvimTreeLspDiagnosticsError = { fg = C.error_red },
 	NvimTreeLspDiagnosticsWarning = { fg = C.warning_orange },
-	NvimTreeLspDiagnosticsInformation = { fg = C.info_yellow },
-	NvimTreeLspDiagnosticsHint = { fg = C.fg },
+	NvimTreeLspDiagnosticsInformation = { fg = C.fg },
+	NvimTreeLspDiagnosticsHint = { fg = C.info_yellow },
 }
 
 return NvimTree

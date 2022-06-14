@@ -18,7 +18,7 @@ local LSP = {
 		DiagnosticSignWarning = {fg = C.warning_orange, },
 		DiagnosticSignInformation = {fg = C.hint_blue, },
 		DiagnosticSignInfo = {fg = C.hint_blue, },
-		DiagnosticSignHint = {fg = C.info_yellow, },
+		DiagnosticSignHint = {fg = C.fg, },
 		LspDiagnosticsSignError = {fg = C.error_red, },
 		LspDiagnosticsSignWarning = {fg = C.warning_orange, },
 		LspDiagnosticsSignInformation = {fg = C.info_yellow, },
