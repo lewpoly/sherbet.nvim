@@ -86,7 +86,7 @@ local highlights = {
 	Debug = { fg = C.red },
 	Delimiter = { fg = C.winbar_gray },
 	SpecialComment = { fg = C.context, style = "italic" },
-	Underlined = { style = "underline" },
+	Underlined = { style = "undercurl" },
 	Bold = { style = "bold" },
 	Italic = { style = "italic" },
 	Ignore = { fg = C.cyan, bg = C.bg },
