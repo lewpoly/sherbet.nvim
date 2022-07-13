@@ -14,15 +14,18 @@ local colors = {
 	-- bg     = '#68217a',
 	-- bg     = '#252525',
 	gray1 = "#282c34",
-	gray2 = "#2c323d",
+	gray2 = "#212a33",
 	gray3 = "#636465",
 }
 -- LuaFormatter on
 return {
 	normal = {
 		a = { fg = colors.fg, bg = colors.bg },
-		b = { fg = colors.fg, bg = colors.bg },
+		b = { fg = colors.fg, bg = colors.gray2 },
 		c = { fg = colors.fg, bg = colors.bg },
+		x = { fg = colors.fg, bg = colors.bg },
+		y = { fg = colors.fg, bg = colors.gray2 },
+		z = { fg = colors.fg, bg = colors.bg },
 	},
 	insert = { a = { fg = colors.fg, bg = colors.bg } },
 	visual = { a = { fg = colors.fg, bg = colors.bg } },
