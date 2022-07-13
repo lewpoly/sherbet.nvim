@@ -21,10 +21,10 @@ local colors = {
 return {
 	normal = {
 		a = { fg = colors.fg, bg = colors.bg },
-		b = { fg = colors.fg, bg = colors.gray2 },
+		b = { fg = colors.fg, bg = colors.bg },
 		c = { fg = colors.fg, bg = colors.bg },
 		x = { fg = colors.fg, bg = colors.bg },
-		y = { fg = colors.fg, bg = colors.gray2 },
+		y = { fg = colors.fg, bg = colors.bg },
 		z = { fg = colors.fg, bg = colors.bg },
 	},
 	insert = { a = { fg = colors.fg, bg = colors.bg } },
