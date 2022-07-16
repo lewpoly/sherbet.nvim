@@ -1,4 +1,3 @@
-" Author: Christian Chiarulli <chrisatmachine@gmail.com>
 
 lua << EOF
 package.loaded['sherbet'] = nil
