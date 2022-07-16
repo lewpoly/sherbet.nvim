@@ -61,7 +61,7 @@ local highlights = {
 	Number = { fg = C.green },
 	Boolean = { fg = C.green },
 	Float = { fg = C.cyan },
-	FloatTitle = { fg = C.comp_blue },
+	FloatTitle = { fg = C.gruv_blue },
 	Identifier = { fg = C.search_blue },
 	Function = { fg = C.yellow_orange },
 	Operator = { fg = C.comp_blue },
