@@ -1,4 +1,4 @@
-![Alt text](/screenshots/2022-07-23_10-28.png?raw=true "Optional Title")
+![Alt text](/screenshots/2022-07-23_10-34.png?raw=true "Optional Title")
 
 ## Installation
 
@@ -12,7 +12,6 @@ use "lewpoly/sherbet.nvim"
 
 - neovim >= 0.6
 - truecolor terminal support
-- undercurl terminal support (optional)
 
 ## Usage
 
