@@ -17,7 +17,7 @@ local highlights = {
 	Comment = { fg = C.gray, style = "italic" },
 	Folded = { fg = C.folder_blue, bg = C.bg },
 	FoldColumn = { fg = C.folder_blue, bg = C.bg },
-	NormalFloat = { bg = C.bg },
+	NormalFloat = { bg = C.menu_gray },
 	FloatBorder = { fg = C.gray, bg = C.bg },
 	Whitespace = { fg = C.bg },
 	VertSplit = { fg = C.gray, bg = C.bg },
