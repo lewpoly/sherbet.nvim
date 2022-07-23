@@ -25,6 +25,6 @@ vim.cmd("colorscheme sherbet")
 ```
 
 ![Alt text](/screenshots/2022-07-23_13-21.png?raw=true "Optional Title")
-![Alt text](/screenshots/2022-07-23_13-39.png?raw=true "Optional Title")
+![Alt text](/screenshots/2022-07-23_13-45.png?raw=true "Optional Title")
 
 Please let me know if you come across any issues.
