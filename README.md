@@ -1,4 +1,4 @@
-![Alt text](/screenshots/2022-07-23_10-34.png?raw=true "Optional Title")
+![Alt text](/screenshots/2022-07-23_13-21.png?raw=true "Optional Title")
 
 ## Installation
 
