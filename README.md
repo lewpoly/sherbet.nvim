@@ -1,5 +1,4 @@
-![Alt text](/screenshots/2022-03-27_13-23.png?raw=true "Optional Title")
-![Alt text](/screenshots/2022-03-27_13-25.png?raw=true "With Nvim-Tree")
+![Alt text](/screenshots/2022-07-23_08-55.png?raw=true "Optional Title")
 
 ## Installation
 
