@@ -321,11 +321,11 @@ theme.set_highlights = function()
   hl(0, "TelescopeMatching", { fg = c.yellow, bg = "NONE", bold = true, italic = true })
   hl(0, "TelescopeBorder", { fg = c.gray, bg = "NONE" })
   hl(0, "TelescopeNormal", { fg = c.fg, bg = c.alt_bg })
-  hl(0, "TelescopePromptTitle", { fg = c.fg, bg = "NONE" })
+  hl(0, "TelescopePromptTitle", { fg = c.ui2_blue, bg = "NONE" })
   hl(0, "TelescopePromptPrefix", { fg = c.hint, bg = "NONE" })
   hl(0, "TelescopeResultsTitle", { fg = c.orange, bg = "NONE" })
   hl(0, "TelescopePreviewTitle", { fg = c.orange, bg = "NONE" })
-  hl(0, "TelescopePromptCounter", { fg = c.yellow, bg = "NONE" })
+  hl(0, "TelescopePromptCounter", { fg = c.green, bg = "NONE" })
   hl(0, "TelescopePreviewHyphen", { fg = c.red, bg = "NONE" })
 
   -- NvimTree
