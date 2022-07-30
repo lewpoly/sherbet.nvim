@@ -329,7 +329,7 @@ theme.set_highlights = function()
   hl(0, "TelescopePreviewHyphen", { fg = c.red, bg = "NONE" })
 
   -- NvimTree
-  hl(0, "NvimTreeFolderIcon", { fg = c.light_gray, bg = "NONE" })
+  hl(0, "NvimTreeFolderIcon", { fg = c.fg, bg = "NONE" })
   hl(0, "NvimTreeIndentMarker", { fg = c.gray, bg = "NONE" })
   hl(0, "NvimTreeNormal", { fg = c.fg, bg = c.alt_bg })
   hl(0, "NvimTreeVertSplit", { fg = c.gray, bg = c.bg })
