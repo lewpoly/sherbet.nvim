@@ -317,7 +317,7 @@ theme.set_highlights = function()
 
   -- Telescope
   hl(0, "TelescopeSelection", { fg = "NONE", bg = c.ui2_blue })
-  hl(0, "TelescopeSelectionCaret", { fg = c.yellow, bg = c.ui2_blue })
+  hl(0, "TelescopeSelectionCaret", { fg = c.light_gray, bg = c.ui2_blue })
   hl(0, "TelescopeMatching", { fg = c.yellow, bg = "NONE", bold = true, italic = true })
   hl(0, "TelescopeBorder", { fg = c.gray, bg = "NONE" })
   hl(0, "TelescopeNormal", { fg = c.fg, bg = c.alt_bg })
