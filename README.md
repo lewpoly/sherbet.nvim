@@ -24,6 +24,16 @@ colorscheme sherbet
 vim.cmd("colorscheme sherbet")
 ```
 
+## Italic Support
+
+```lua
+vim.g.sherbet_italic_keywords = true
+vim.g.sherbet_italic_functions = false
+vim.g.sherbet_italic_comments = true
+vim.g.sherbet_italic_loops = true
+vim.g.sherbet_italic_conditionals = true
+```
+
 ![Alt text](/screenshots/2022-07-23_13-21.png?raw=true "Optional Title")
 ![Alt text](/screenshots/2022-07-23_13-45.png?raw=true "Optional Title")
 
