@@ -90,7 +90,7 @@ theme.set_highlights = function()
   hl(0, "TabLineFill", { fg = c.line, bg = c.line })
 
   -- Code
-  hl(0, "Comment", { fg = c.gray, bg = "NONE", italic = italic_comments })
+  hl(0, "Comment", { fg = c.new_comment, bg = "NONE", italic = italic_comments })
   hl(0, "Variable", { fg = c.fg, bg = "NONE" })
   hl(0, "String", { fg = c.orange, bg = "NONE" })
   hl(0, "Character", { fg = c.orange, bg = "NONE" })
