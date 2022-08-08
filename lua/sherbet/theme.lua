@@ -90,7 +90,7 @@ theme.set_highlights = function()
   hl(0, "TabLineFill", { fg = c.line, bg = c.line })
 
   -- Code
-  hl(0, "Comment", { fg = c.new_comment, bg = "NONE", italic = italic_comments })
+  hl(0, "Comment", { fg = c.gray, bg = "NONE", italic = italic_comments })
   hl(0, "Variable", { fg = c.fg, bg = "NONE" })
   hl(0, "String", { fg = c.orange, bg = "NONE" })
   hl(0, "Character", { fg = c.orange, bg = "NONE" })
@@ -309,7 +309,7 @@ theme.set_highlights = function()
   hl(0, "LspReferenceWrite", { fg = "NONE", bg = c.reference })
   hl(0, "LspCodeLens", { fg = c.context, bg = "NONE", italic = true })
   hl(0, "LspCodeLensSeparator", { fg = c.context, bg = "NONE", italic = true })
-  hl(0, "LspInlayHint", { fg = c.hint_gray, bg = "NONE", italic = false })
+  -- hl(0, "LspInlayHint", { fg = c.new_comment, bg = "NONE", italic = false })
 
   -- Quickscope
   hl(0, "QuickScopePrimary", { fg = "#ff007c", bg = "NONE", underline = true })
