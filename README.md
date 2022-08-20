@@ -36,8 +36,4 @@ vim.g.sherbet_italic_comments = true
 vim.g.sherbet_italic_loops = true
 vim.g.sherbet_italic_conditionals = true
 ```
-
-![JS](/screenshots/2022-08-18_20-05.png?raw=true "Optional Title")
-![C](/screenshots/2022-08-18_20-08.png?raw=true "Optional Title")
-
 Please let me know if you come across any issues.
