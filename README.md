@@ -24,6 +24,8 @@ colorscheme sherbet
 ```lua
 vim.cmd("colorscheme sherbet")
 ```
+![2022-08-18_20-05](https://user-images.githubusercontent.com/68481374/185721785-986c7e5e-949d-4787-bda9-33b6ce907790.png)
+![2022-08-18_20-08](https://user-images.githubusercontent.com/68481374/185721787-254e2d67-3f3b-4d20-a040-3690e0a608f5.png)
 
 ## Italic Support
 
