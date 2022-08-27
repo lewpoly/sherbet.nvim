@@ -333,7 +333,7 @@ theme.set_highlights = function()
 
 	-- NvimTree
 	hl(0, "NvimTreeFolderIcon", { fg = c.fg, bg = "NONE" })
-	hl(0, "NvimTreeIndentMarker", { fg = c.fg, bg = "NONE" })
+	hl(0, "NvimTreeIndentMarker", { fg = c.gray, bg = "NONE" })
 	hl(0, "NvimTreeNormal", { fg = c.fg, bg = c.alt_bg })
 	hl(0, "NvimTreeVertSplit", { fg = c.gray, bg = c.bg })
 	hl(0, "NvimTreeFolderName", { fg = c.cyan, bg = "NONE" })
