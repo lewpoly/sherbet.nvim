@@ -4,6 +4,7 @@ local colors = {
 	alt_fg = "#8b92a8",
 	alt_bg = "#202329",
 	line = "#2c323d",
+  statusline = "#1e2027",
 	tree_line = "#2c323d",
 	dark_gray = "#3e3e3e",
 	hint_gray = "#5f5f5f",
