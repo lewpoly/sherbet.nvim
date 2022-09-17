@@ -13,6 +13,7 @@ local colors = {
 	context = "#a2a2a2",
 	light_gray = "#e5e9f0",
 	red = "#bf616a",
+  gruv_red = "#cc241d",
 	comp_blue = "#6ba8db",
 	blue = "#9cdcfe",
 	green = "#a3be8c",
