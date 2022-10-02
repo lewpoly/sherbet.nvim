@@ -52,6 +52,7 @@ local colors = {
 	ui_orange = "#E8AB53",
 	ui2_orange = "#613214",
 	ui_purple = "#B180D7",
+  ui_search = "#455459"
 }
 
 return colors
