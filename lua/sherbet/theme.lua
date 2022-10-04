@@ -474,7 +474,7 @@ theme.set_highlights = function()
 	hl(0, "NavicIconsEvent", { fg = c.yellow, bg = "NONE" })
 	hl(0, "NavicIconsOperator", { fg = c.fg, bg = "NONE" })
 	hl(0, "NavicIconsTypeParameter", { fg = c.yellow, bg = "NONE" })
-	hl(0, "NavicText", { fg = c.gray, bg = "NONE" })
+	hl(0, "NavicText", { fg = c.fg, bg = "NONE" })
 	hl(0, "NavicSeparator", { fg = c.context, bg = "NONE" })
 
 	-- Gps
