@@ -353,7 +353,7 @@ theme.set_highlights = function()
 	hl(0, "NvimTreeGitDirty", { fg = c.sign_change_alt, bg = "NONE" })
 	hl(0, "NvimTreeSymlink", { fg = c.cyan, bg = "NONE" })
 	hl(0, "NvimTreeRootFolder", { fg = c.fg, bg = "NONE", bold = true })
-	hl(0, "NvimTreeOpenedFile", { fg = c.info, bg = "NONE" })
+	hl(0, "NvimTreeOpenedFile", { fg = c.sign_add_alt, bg = "NONE" })
 	hl(0, "NvimTreeExecFile", { fg = "#9FBA89", bg = "NONE" })
 
 	-- Lir
