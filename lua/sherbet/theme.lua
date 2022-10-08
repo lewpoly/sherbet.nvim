@@ -507,11 +507,11 @@ theme.set_highlights = function()
 
 	-- Packer
 	hl(0, "packerString", { fg = c.ui_orange, bg = "NONE" })
-	hl(0, "packerHash", { fg = c.ui4_blue, bg = "NONE" })
-	hl(0, "packerOutput", { fg = c.ui_purple, bg = "NONE" })
+	hl(0, "packerHash", { fg = c.yellow, bg = "NONE" })
+	hl(0, "packerOutput", { fg = c.cyan, bg = "NONE" })
 	hl(0, "packerRelDate", { fg = c.gray, bg = "NONE" })
 	hl(0, "packerSuccess", { fg = c.success_green, bg = "NONE" })
-	hl(0, "packerStatusSuccess", { fg = c.ui4_blue, bg = "NONE" })
+	hl(0, "packerStatusSuccess", { fg = c.purple, bg = "NONE" })
 
 	-- SymbolOutline
 	hl(0, "SymbolsOutlineConnector", { fg = c.gray, bg = "NONE" })
